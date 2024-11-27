@@ -2,15 +2,15 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './containers/App.js';
-
+import { BrowserRouter as HashRouter } from 'react-router-dom';
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
+  <HashRouter basename={process.env.PUBLIC_URL}>
     <App/>
-  </React.StrictMode>
+  </HashRouter>
 );
 
 // If you want to start measuring performance in your app, pass a function
