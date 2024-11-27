@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/furkanbati/robofriends.git/static/css/main.4005e799.css",
+    "main.js": "/furkanbati/robofriends.git/static/js/main.b4605815.js",
+    "static/js/453.eceb90f9.chunk.js": "/furkanbati/robofriends.git/static/js/453.eceb90f9.chunk.js",
+    "static/media/SEGA.woff": "/furkanbati/robofriends.git/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/furkanbati/robofriends.git/index.html",
+    "main.4005e799.css.map": "/furkanbati/robofriends.git/static/css/main.4005e799.css.map",
+    "main.b4605815.js.map": "/furkanbati/robofriends.git/static/js/main.b4605815.js.map",
+    "453.eceb90f9.chunk.js.map": "/furkanbati/robofriends.git/static/js/453.eceb90f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4005e799.css",
+    "static/js/main.b4605815.js"
+  ]
+}
